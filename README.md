@@ -1,0 +1,42 @@
+# Agentic Starters Registry
+
+This repository documents the official architecture starters used by the Agentic development platform.
+
+The platform is composed of:
+
+1. AGENTIC-TEMPLATE
+2. Architecture Starters
+3. Project Repositories
+
+Starters provide reusable architecture modules that can be installed into projects created from the template.
+
+---
+
+## Starter Categories
+
+Backend
+Frontend
+Contracts
+Infrastructure
+Composition
+
+---
+
+## Available Starters
+
+| Starter | Type | Install Path |
+|------|------|------|
+| agentic-clean-backend | backend | app/backend |
+| agentic-react-spa | frontend | app/web |
+| agentic-flutter-client | frontend | app/client |
+| agentic-api-contracts-api | contracts | app/contracts |
+| agentic-postgres-dev | infra | app/infra |
+| agentic-fullstack-composition | composition | app/composition |
+
+---
+
+## Starter Installation
+
+See:
+
+INSTALLATION.md
