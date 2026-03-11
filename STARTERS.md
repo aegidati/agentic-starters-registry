@@ -1,0 +1,99 @@
+# Starter Catalog
+
+## Backend
+
+### agentic-clean-backend
+
+Repository:
+https://github.com/<org>/agentic-clean-backend
+
+Install path:
+
+app/backend
+
+Purpose:
+
+Clean Architecture backend foundation.
+
+---
+
+## Frontend
+
+### agentic-react-spa
+
+Repository:
+https://github.com/<org>/agentic-react-spa
+
+Install path:
+
+app/web
+
+Purpose:
+
+React SPA web client foundation.
+
+---
+
+### agentic-flutter-client
+
+Repository:
+https://github.com/<org>/agentic-flutter-client
+
+Install path:
+
+app/client
+
+Purpose:
+
+Flutter multi-platform client foundation.
+
+---
+
+## Contracts
+
+### agentic-api-contracts-api
+
+Repository:
+https://github.com/<org>/agentic-api-contracts-api
+
+Install path:
+
+app/contracts
+
+Purpose:
+
+Shared API contract layer.
+
+---
+
+## Infrastructure
+
+### agentic-postgres-dev
+
+Repository:
+https://github.com/<org>/agentic-postgres-dev
+
+Install path:
+
+app/infra
+
+Purpose:
+
+Local PostgreSQL development infrastructure.
+
+---
+
+## Composition
+
+### agentic-fullstack-composition
+
+Repository:
+https://github.com/<org>/agentic-fullstack-composition
+
+Install path:
+
+app/composition
+
+Purpose:
+
+Local fullstack runtime orchestration.
