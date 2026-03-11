@@ -5,7 +5,7 @@
 ### agentic-clean-backend
 
 Repository:
-https://github.com/<org>/agentic-clean-backend
+https://github.com/aegidati/agentic-clean-backend
 
 Install path:
 
@@ -22,7 +22,7 @@ Clean Architecture backend foundation.
 ### agentic-react-spa
 
 Repository:
-https://github.com/<org>/agentic-react-spa
+https://github.com/aegidati/agentic-react-spa
 
 Install path:
 
@@ -37,7 +37,7 @@ React SPA web client foundation.
 ### agentic-flutter-client
 
 Repository:
-https://github.com/<org>/agentic-flutter-client
+https://github.com/aegidati/agentic-flutter-client
 
 Install path:
 
@@ -54,7 +54,7 @@ Flutter multi-platform client foundation.
 ### agentic-api-contracts-api
 
 Repository:
-https://github.com/<org>/agentic-api-contracts-api
+https://github.com/aegidati/agentic-api-contracts-api
 
 Install path:
 
@@ -71,7 +71,7 @@ Shared API contract layer.
 ### agentic-postgres-dev
 
 Repository:
-https://github.com/<org>/agentic-postgres-dev
+https://github.com/aegidati/agentic-postgres-dev
 
 Install path:
 
@@ -88,7 +88,7 @@ Local PostgreSQL development infrastructure.
 ### agentic-fullstack-composition
 
 Repository:
-https://github.com/<org>/agentic-fullstack-composition
+https://github.com/aegidati/agentic-fullstack-composition
 
 Install path:
 
