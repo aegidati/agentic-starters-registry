@@ -21,8 +21,8 @@ After creating the project, architecture starters can be installed.
 After installing all starters:
 
 app/
-  backend/
-  web/
+  backend/  (agentic-clean-backend or agentic-dotnet-backend)
+  web/      (agentic-react-spa or agentic-angular-spa)
   client/
   infra/
   contracts/

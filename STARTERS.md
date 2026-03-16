@@ -17,6 +17,21 @@ Clean Architecture backend foundation.
 
 ---
 
+### agentic-dotnet-backend
+
+Repository:
+https://github.com/aegidati/agentic-dotnet-backend.git
+
+Install path:
+
+app/backend
+
+Purpose:
+
+.NET backend foundation.
+
+---
+
 ## Frontend
 
 ### agentic-react-spa
@@ -31,6 +46,21 @@ app/web
 Purpose:
 
 React SPA web client foundation.
+
+---
+
+### agentic-angular-spa
+
+Repository:
+https://github.com/aegidati/agentic-angular-spa.git
+
+Install path:
+
+app/web
+
+Purpose:
+
+Angular SPA web client foundation.
 
 ---
 

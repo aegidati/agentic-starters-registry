@@ -27,7 +27,9 @@ Composition
 | Starter | Type | Install Path |
 |------|------|------|
 | agentic-clean-backend | backend | app/backend |
+| agentic-dotnet-backend | backend | app/backend |
 | agentic-react-spa | frontend | app/web |
+| agentic-angular-spa | frontend | app/web |
 | agentic-flutter-client | frontend | app/client |
 | agentic-api-contracts-api | contracts | app/contracts |
 | agentic-postgres-dev | infra | app/infra |
