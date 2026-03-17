@@ -20,7 +20,7 @@ Clean Architecture backend foundation.
 ### agentic-dotnet-backend
 
 Repository:
-https://github.com/aegidati/agentic-dotnet-backend.git
+https://github.com/aegidati/agentic-dotnet-backend
 
 Install path:
 
@@ -52,7 +52,7 @@ React SPA web client foundation.
 ### agentic-angular-spa
 
 Repository:
-https://github.com/aegidati/agentic-angular-spa.git
+https://github.com/aegidati/agentic-angular-spa
 
 Install path:
 
@@ -127,3 +127,20 @@ app/composition
 Purpose:
 
 Local fullstack runtime orchestration.
+
+---
+
+## Foundation
+
+### agentic-iam
+
+Repository:
+https://github.com/aegidati/agentic-iam
+
+Install path:
+
+manual-copy or subtree-vendor (docs + governance artifacts)
+
+Purpose:
+
+Documentation-first, architecture-agnostic Identity and Access domain foundation starter. It standardizes IAM language, policies, ADR seeds, and downstream adoption guidance without shipping runtime backend, frontend, or infrastructure code.

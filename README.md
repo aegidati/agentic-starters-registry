@@ -19,6 +19,7 @@ Frontend
 Contracts
 Infrastructure
 Composition
+Foundation
 
 ---
 
@@ -32,8 +33,9 @@ Composition
 | agentic-angular-spa | frontend | app/web |
 | agentic-flutter-client | frontend | app/client |
 | agentic-api-contracts-api | contracts | app/contracts |
-| agentic-postgres-dev | infra | app/infra |
+| agentic-postgres-dev | infrastructure | app/infra |
 | agentic-fullstack-composition | composition | app/composition |
+| agentic-iam | foundation | manual-copy or subtree-vendor (docs + governance artifacts) |
 
 ---
 

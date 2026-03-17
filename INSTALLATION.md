@@ -8,6 +8,10 @@ After creating the project, architecture starters can be installed.
 
 ## Typical Installation Order
 
+Optional pre-step for domain foundation starters:
+
+0. Foundation (manual-adoption, if needed)
+
 1. Backend
 2. Frontend
 3. Contracts
@@ -30,3 +34,11 @@ app/
 
 docs/
 .github/
+
+---
+
+Foundation starter note:
+
+- Foundation starters (for example agentic-iam) are adopted manually, not auto-installed into a runtime slot.
+- Recommended adoption model: manual copy or subtree-vendor of docs and governance artifacts.
+- Foundation starters define domain and policy baselines that downstream projects map into their own runtime implementation work.
