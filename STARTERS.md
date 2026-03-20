@@ -144,3 +144,18 @@ manual-copy or subtree-vendor (docs + governance artifacts)
 Purpose:
 
 Documentation-first, architecture-agnostic Identity and Access domain foundation starter. It standardizes IAM language, policies, ADR seeds, and downstream adoption guidance without shipping runtime backend, frontend, or infrastructure code.
+
+---
+
+### agentic-auth-foundation
+
+Repository:
+https://github.com/aegidati/agentic-auth-foundation
+
+Install path:
+
+manual-copy or subtree-vendor (docs + governance artifacts)
+
+Purpose:
+
+Documentation-first authentication foundation starter extending IAM with profile-driven authentication guidance, with no runtime backend, frontend, or infrastructure code.

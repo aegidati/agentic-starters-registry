@@ -17,10 +17,11 @@ This document describes compatible starter versions.
 | agentic-postgres-dev | v0.1.x |
 | agentic-fullstack-composition | v0.1.x |
 | agentic-iam | v0.1.0 |
+| agentic-auth-foundation | documentation-first / n.a. |
 
 ---
 
 ## Notes
 
 - Runtime starters evolve independently but should maintain compatibility within the same minor version.
-- Foundation starters (for example agentic-iam) use documentation and domain compatibility; they do not imply runtime installation compatibility.
+- Foundation starters (for example agentic-iam and agentic-auth-foundation) use documentation and domain compatibility; they do not imply runtime installation compatibility.

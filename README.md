@@ -36,6 +36,7 @@ Foundation
 | agentic-postgres-dev | infrastructure | app/infra |
 | agentic-fullstack-composition | composition | app/composition |
 | agentic-iam | foundation | manual-copy or subtree-vendor (docs + governance artifacts) |
+| agentic-auth-foundation | foundation | manual-copy or subtree-vendor (docs + governance artifacts) |
 
 ---
 

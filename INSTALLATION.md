@@ -39,6 +39,6 @@ docs/
 
 Foundation starter note:
 
-- Foundation starters (for example agentic-iam) are adopted manually, not auto-installed into a runtime slot.
+- Foundation starters (for example agentic-iam and agentic-auth-foundation) are adopted manually, not auto-installed into a runtime slot.
 - Recommended adoption model: manual copy or subtree-vendor of docs and governance artifacts.
 - Foundation starters define domain and policy baselines that downstream projects map into their own runtime implementation work.
