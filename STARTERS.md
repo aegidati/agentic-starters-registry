@@ -77,9 +77,22 @@ Purpose:
 
 Flutter multi-platform client foundation.
 
----
 
 ## Contracts
+### agentic-react-native
+
+Repository:
+https://github.com/aegidati/agentic-react-native
+
+Install path:
+
+app/client
+
+Purpose:
+
+React Native mobile client foundation (Expo).
+
+---
 
 ### agentic-api-contracts-api
 
