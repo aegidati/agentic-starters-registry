@@ -13,6 +13,7 @@ This document describes compatible starter versions.
 | agentic-react-spa | v0.1.x |
 | agentic-angular-spa | v0.1.0 |
 | agentic-flutter-client | v0.1.x |
+| agentic-react-native | v0.1.x |
 | agentic-api-contracts-api | v0.1.x |
 | agentic-postgres-dev | v0.1.x |
 | agentic-fullstack-composition | v0.1.x |
